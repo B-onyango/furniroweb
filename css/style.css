@@ -1,0 +1,44 @@
+
+
+.sec{
+    bottom: 580px;
+    left: 700px;
+    height: 400px;
+    background-color: bisque;
+    
+}
+
+.sec3{
+    position: relative;
+    bottom: 550px;
+}
+
+
+.sec4{
+    position: relative;
+    bottom: 600px;
+    background-color: rgb(223, 221, 221);
+    padding-bottom: 4rem;
+    
+}
+
+.scatered{
+    position: relative;
+    bottom: 500px;
+}
+
+
+.rounded-full{
+    border-radius: 50%;
+}
+
+.col2:hover{
+    background: #57524c;
+    color: rgb(255, 255, 255);
+    transition: ease-out 1s;
+}
+
+.col1:hover{
+    background: rgb(163, 124, 51);
+    color: rgb(255, 255, 255);
+}
